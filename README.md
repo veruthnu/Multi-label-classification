@@ -1,6 +1,6 @@
 # Product Name
 > Sort of Multi Label Classification<br>
-> 2/01 ~ 3/01 Dacon Mnist Multi Label Classificaton
+> 2/01 ~ 3/01 Dacon Mnist Multi Label Classificaton<br>
 > 3/01 ~ Pos Multi Label classification
 
 
