@@ -1,7 +1,7 @@
 # Product Name
 > Sort of Multi Label Classification<br>
 > 2/01 ~ 3/01 Dacon Mnist Multi Label Classificaton<br>
-> 3/01 ~ Pos Multi Label classification
+> 3/01 ~ Categorization of word order using a Pos
 
 
 [![NPM Version][npm-image]][npm-url]
