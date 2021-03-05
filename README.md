@@ -1,12 +1,11 @@
 # Product Name
-> Sort of Multi Label Classification<br><b>
+> Sort of Multi Label Classification<br>
 > 
 > 2/01 ~ 3/01 Dacon Mnist Multi Label Classificaton<br>
 > 3/01 ~ Categorization of word order using a Pos
 
 
 
-One to two paragraph statement about your product and what it does.
 
 ![](header.png)
 
