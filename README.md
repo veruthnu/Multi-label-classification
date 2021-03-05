@@ -1,5 +1,8 @@
 # Product Name
-> Short blurb about what your product does.
+> Sort of Multi Label Classification
+> 2/01 ~ 3/01 Dacon Mnist Multi Label Classificaton
+> 3/01 ~ Pos Multi Label classification
+
 
 [![NPM Version][npm-image]][npm-url]
 [![Build Status][travis-image]][travis-url]
