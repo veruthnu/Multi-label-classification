@@ -1,5 +1,5 @@
-# Product Name
-> Sort of Multi Label Classification<br>
+# Sort of Multi Label Classification
+> 
 > 
 > 2/01 ~ 3/01 Dacon Mnist Multi Label Classificaton<br>
 > 3/01 ~ Categorization of word order using a Pos
