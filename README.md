@@ -4,6 +4,8 @@
 > 
 > 2/01 ~ 3/01 Dacon Mnist Multi Label Classificaton<br>
 > 3/01 ~ Categorization of word order using a Pos
+> 
+> 파이토치가 아닌 tensorflow keras 기반으로 한 MLC  
 
 
 
