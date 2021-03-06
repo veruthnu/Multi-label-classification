@@ -13,8 +13,8 @@
 
 # 3070 rtx tensorflow version & cuda version  
 
-cuda 11.0
-cudnn 11.0
+cuda 11.0<br>
+cudnn 11.0<br>
 tf-nightly==2.5.0.dev20201212
 
 
