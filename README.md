@@ -12,13 +12,12 @@
 
 ![](header.png)
 
-## Installation
+## 3070 rtx tensorflow version & cuda version  
+# Development setup
 
 Windows:
 
-```sh
-edit autoexec.bat
-```
+
 
 ## Usage example
 
