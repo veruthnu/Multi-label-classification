@@ -20,9 +20,9 @@ tf-nightly==2.5.0.dev20201212
 **it work for me**
 
 
-# Development setup
+# **Resnet** 모델 구현 
 
-Windows: 
+
 
 
 
